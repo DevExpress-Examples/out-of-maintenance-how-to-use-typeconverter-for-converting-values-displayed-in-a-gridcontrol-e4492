@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GridControlTypeConverter", "GridControlTypeConverter\GridControlTypeConverter.vbproj", "{18C539AB-A708-4C7A-879C-EF58E1718B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C539AB-A708-4C7A-879C-EF58E1718B61}.Debug|x86.ActiveCfg = Debug|x86
+		{18C539AB-A708-4C7A-879C-EF58E1718B61}.Debug|x86.Build.0 = Debug|x86
+		{18C539AB-A708-4C7A-879C-EF58E1718B61}.Release|x86.ActiveCfg = Release|x86
+		{18C539AB-A708-4C7A-879C-EF58E1718B61}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
